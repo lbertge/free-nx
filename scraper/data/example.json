@@ -1,0 +1,10 @@
+{
+  "credentials": {
+    "username": "XXXXXXXXX",
+    "password": "YYYYYYYY"
+  },
+  "loginPage": "https://www.google.com/",
+  "postLogin": [
+    "https://www.google.com"
+  ]
+} 
